@@ -5,6 +5,7 @@
     "parcel-bundler": "^1.8.1"
   },
   "dependencies": {
+    "jQuery": "^1.7.4",
     "superagent": "^3.8.3"
   }
 }
